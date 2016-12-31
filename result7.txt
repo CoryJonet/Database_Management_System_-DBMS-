@@ -1,0 +1,9 @@
+East North Central|Illinois, Indiana, Michigan, Ohio, Wisconsin
+East South Central|Alabama, Kentucky, Mississippi, Tennessee
+Middle Atlantic|New Jersey, New York, Pennsylvania
+Mountain|Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, Wyoming
+New England|Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont
+Pacific|Alaska, California, Hawaii, Oregon, Washington
+South Atlantic|Delaware, District of Columbia, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia
+West North Central|Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota
+West South Central|Arkansas, Louisiana, Oklahoma, Texas

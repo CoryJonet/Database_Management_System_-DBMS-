@@ -1,0 +1,50 @@
+East North Central|Michigan|Washtenaw County|14
+East North Central|Wisconsin|Winnebago County|8
+East North Central|Ohio|Wood County|14
+East North Central|Illinois|Woodford County|2
+East North Central|Indiana|Whitley County|2
+East South Central|Alabama|Tuscaloosa County|4
+East South Central|Tennessee|Wilson County|3
+East South Central|Mississippi|Yazoo County|2
+East South Central|Kentucky|Woodford County|6
+Middle Atlantic|New York|Westchester County|23
+Middle Atlantic|New Jersey|Union County|44
+Middle Atlantic|Pennsylvania|York County|4
+Mountain|Nevada|Washoe County|12
+Mountain|Colorado|Weld County|3
+Mountain|Utah|Weber County|7
+Mountain|Arizona|Yavapai County|187
+Mountain|Montana|Yellowstone County|1
+Mountain|Idaho|Twin Falls County|3
+Mountain|Wyoming|Uinta County|14
+Mountain|New Mexico|Union County|3
+New England|Massachusetts|Worcester County|52
+New England|Rhode Island|Providence County|829
+New England|Connecticut|New London County|1
+New England|Maine|York County|7
+New England|New Hampshire|Strafford County|138
+New England|Vermont|Lamoille County|34
+Pacific|Washington|Yakima County|12
+Pacific|Hawaii|Maui County|653
+Pacific|Oregon|Yamhill County|5
+Pacific|California|Yuba County|4
+Pacific|Alaska|Yukon-Koyukuk Census Area|2
+South Atlantic|Maryland|Baltimore city|68
+South Atlantic|South Carolina|York County|17
+South Atlantic|Delaware|Sussex County|2307
+South Atlantic|North Carolina|Wilson County|11
+South Atlantic|Virginia|Winchester city|4
+South Atlantic|Florida|Washington County|37
+South Atlantic|Georgia|Wilkinson County|5
+South Atlantic|West Virginia|Wirt County|9
+West North Central|Kansas|Wyandotte County|1
+West North Central|Minnesota|Wright County|1
+West North Central|Missouri|Webster County|5
+West North Central|North Dakota|Williams County|8
+West North Central|Iowa|Winneshiek County|9
+West North Central|Nebraska|York County|2
+West North Central|South Dakota|Ziebach County|1
+West South Central|Arkansas|White County|12
+West South Central|Louisiana|West Baton Rouge Parish|13
+West South Central|Oklahoma|Woodward County|5
+West South Central|Texas|Zavala County|1
